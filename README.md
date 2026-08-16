@@ -100,7 +100,7 @@ An AI-powered application for detecting plant diseases and providing agriculture
 **Technologies:**
 `Python` `Flask` `YOLOv8` `MongoDB` `Redis` `Celery` `Twilio`
 
-🔗 **[View Project](https://github.com/JanaKrishnan21)**
+🔗 **[View Project]([https://github.com/JanaKrishnan21](https://visitor-management-frontend-75sl.vercel.app/login))**
 
 ---
 
