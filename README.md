@@ -79,7 +79,7 @@ A full-stack visitor management application developed using the MERN stack.
 **Technologies:**
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt`
 
-🔗 **[View Project]([https://github.com/JanaKrishnan21](https://visitor-management-frontend-75sl.vercel.app/login))**
+🔗 **[View Project]((https://visitor-management-frontend-75sl.vercel.app/login)**
 
 ---
 
